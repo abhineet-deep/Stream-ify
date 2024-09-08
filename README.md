@@ -42,7 +42,7 @@ This repo consists of frontend & backend part of my Netflix clone using [The Mov
 
 ### ***Runing Project Locally***
 ```
-git clone https://github.com/vaibhavgarg237/netflixClone.git
+git clone https://github.com/Abhineetgarg237/netflixClone.git
 cd netflixClone
 ```
   -  ***Client***

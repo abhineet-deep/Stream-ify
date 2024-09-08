@@ -40,7 +40,7 @@ function Login() {
             ),
           });
           console.log(
-            "Vaibhav can't you take care of these errors? Devs on other side, Big apology from Vaibhav!!",
+            "Abhineet can't you take care of these errors? Devs on other side, Big apology from Abhineet!!",
             error
           );
         });
